@@ -1,3 +1,7 @@
-# CSC240-Class-project 
-## Library Database
-My project is a library database.It will strore information about books, library members, and borrrowed books. It will track when books are borrowed and returned.
+# CSC240-Class-project
+
+## Daycare Management System
+
+My project is a daycare database. It will store information about children, parents, teachers, classes, and attendance. It will help staff update parent contact information, assign children and teachers to classes, and record daily attendance.
+
+The full project proposal is in project-proposal.md.
